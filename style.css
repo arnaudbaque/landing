@@ -1,0 +1,33 @@
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Roboto;
+}
+h1{
+  font-family: Pacifico;
+  color: rgb(235,210,18);
+  font-weight: lighter;
+  font-size: 100px;
+}
+h2 {
+  font-family: Quicksand;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+#header { border: 10px;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 8px;
+    background-image: img src="images/aile.png"
+     }
+
+    
